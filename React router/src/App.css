@@ -1,0 +1,14 @@
+nav {
+  display: flex;
+  justify-content: space-around;
+  text-align:center;
+  background-color: rgb(202, 255, 196);
+  
+  
+}
+nav a {
+  padding: .5rem;
+}
+.selected {
+  border: 2px solid black;
+}
